@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local build tooling (kept out of the mod sources)
+.tools/
+# Compiled classes of tools/*.java (rebuild with the command from the README)
+tools/out/
+# Game log directory: the dev launch script starts the client from here
+logs/

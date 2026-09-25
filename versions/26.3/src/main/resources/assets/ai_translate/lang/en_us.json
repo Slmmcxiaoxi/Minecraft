@@ -1,0 +1,18 @@
+{
+	"ai_translate.source.chat": "Chat messages",
+	"ai_translate.source.tooltip": "Hover tooltips (tooltip / hover events)",
+	"ai_translate.source.item": "Item names (held switch / inventory / pickup)",
+	"ai_translate.source.sign": "Signs",
+	"ai_translate.source.book": "Books",
+	"ai_translate.source.container": "Container titles",
+	"ai_translate.source.title": "Title / subtitle",
+	"ai_translate.source.action_bar": "Action bar",
+	"ai_translate.source.boss_bar": "Boss bar",
+	"ai_translate.source.scoreboard": "Scoreboard sidebar",
+	"ai_translate.source.entity_name": "Entity custom name",
+	"ai_translate.source.dialog": "Dialog",
+	"ai_translate.source.text_display": "Text display entities",
+	"ai_translate.source.advancement": "Advancements (title / description / toast)",
+	"ai_translate.source.player_list": "Player list (Tab): custom names and team prefix/suffix",
+	"ai_translate.display.only": "Translation only (in place)"
+}

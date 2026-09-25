@@ -1,0 +1,18 @@
+{
+	"ai_translate.source.chat": "聊天消息",
+	"ai_translate.source.tooltip": "悬停提示框（Tooltip / hover 事件）",
+	"ai_translate.source.item": "物品名称（手持切换 / 物品栏 / 拾取提示）",
+	"ai_translate.source.sign": "告示牌",
+	"ai_translate.source.book": "书与笔 / 成书",
+	"ai_translate.source.container": "容器标题（箱子/木桶/潜影盒等）",
+	"ai_translate.source.title": "标题 / 副标题",
+	"ai_translate.source.action_bar": "动作栏",
+	"ai_translate.source.boss_bar": "Boss 血条",
+	"ai_translate.source.scoreboard": "侧边栏计分板",
+	"ai_translate.source.entity_name": "实体自定义名称",
+	"ai_translate.source.dialog": "Dialog 对话框",
+	"ai_translate.source.text_display": "展示实体文本",
+	"ai_translate.source.advancement": "进度（标题 / 描述 / 弹窗）",
+	"ai_translate.source.player_list": "Tab 玩家列表（自定义显示名 / 队伍前后缀）",
+	"ai_translate.display.only": "仅译文覆盖"
+}

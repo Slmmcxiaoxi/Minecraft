@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ai_translate",
+	"version": "${version}",
+	"name": "AI Translate",
+	"description": "Client-side AI translation overlay for Minecraft maps. Translates visible text without modifying world, item, entity, book, sign, or dialog data.",
+	"authors": [
+		"AI Translate Team"
+	],
+	"license": "MIT",
+	"icon": "assets/ai_translate/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.aitranslate.AITranslateMod"
+		],
+		"client": [
+			"com.aitranslate.client.AITranslateModClient"
+		],
+		"modmenu": [
+			"com.aitranslate.client.config.AITranslateModMenuIntegration"
+		]
+	},
+	"mixins": [
+		{
+			"config": "ai_translate.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~${minecraft_version}",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
