@@ -4,6 +4,13 @@ Minecraft AI Translate 是一个 Fabric 客户端模组，通过 OpenAI 兼容�
 
 正式版：**1.0.0**
 
+## 项目分类
+
+- **项目类型**：Minecraft Fabric 客户端 Mod
+- **主要用途**：基于 OpenAI 兼容接口的游戏文本翻译
+- **支持平台**：Minecraft Java Edition / Fabric
+- **关键词**：`minecraft-mod` `fabric-mod` `client-mod` `translation` `ai`
+
 | Minecraft | Fabric Loader | Fabric API | Cloth Config | Mod Menu（可选） |
 | --- | --- | --- | --- | --- |
 | 26.1.2 | 0.19.5+ | 0.155.3+26.1.2 | 26.1.154 | 18.0.1 |
