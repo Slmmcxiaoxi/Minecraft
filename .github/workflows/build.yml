@@ -24,4 +24,5 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
 
       - name: Run Gradle build
+        working-directory: Mods/AI-Translate
         run: ./gradlew build --no-daemon
